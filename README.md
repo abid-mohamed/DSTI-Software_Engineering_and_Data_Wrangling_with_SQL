@@ -30,5 +30,4 @@ Your Python 3 application must accommodate the following requirements: <br />
 
 In terms of allowed libraries and beyond the recommended pyodbc & pandas, you are free to use anything you like, but with this mandatory requirement: your Python application should not require the user to install packages before the run.
 
-In order to do so, have a look here:  <br />
-https://stackoverflow.com/questions/12332975/installing-python-module-within-code
+In order to do so, have a look here: https://stackoverflow.com/questions/12332975/installing-python-module-within-code
