@@ -20,8 +20,7 @@ You are now in a scenario where the only databases operations allowed are: <br /
 1. to select data from tables. <br />
 2. to create/alter views. <br />
 
-You can use programmatic access to the database server via an ODBC library and you have to develop in Python 3.
-
+You can use programmatic access to the database server via an ODBC library and you have to develop in Python 3. <br />
 Your Python 3 application must accommodate the following requirements: <br />
 1. Gracefully handle the connection to the database server. <br />
 2. Replicate the algorithm of the dbo.fn_GetAllSurveyDataSQL stored function. <br />
